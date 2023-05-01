@@ -2,7 +2,7 @@
 Trabalho introdutório à programação em sockets. Irá ser desenvolvido duas aplicações, uma sendo cliente que se conecta a um servidor e uma aplicação servidor.
 
 # Descrição
-#Cliente
+# Cliente
 1. O cliente irá se conectar ao servidor.
 2. Gerar um número inteiro com até 30 casas.
 3. Enviar para o servidor.
